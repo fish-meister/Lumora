@@ -10,7 +10,6 @@ To install Lumora in your Discord Server, click [here](https://discord.com/oauth
 # Commands
 | Command | Description | Permission | Arguments |
 |     :---:    |     :---:      |     :---:     |     :---:     |
-| /logsettings   | Open's the logging control panel.    | `manage_guild`    | `None` |
 | /levelsettings     | Open's the levelling control panel.       | `manage_guild`      | `None` |
 | /addrank     | Opens the Add Rank control panel.       | `manage_guild`      | `discord.Role` `level.int`|
 | /viewranks     | View what Level Rank's are in the Server      | `None`      | `None` |
@@ -21,6 +20,5 @@ To install Lumora in your Discord Server, click [here](https://discord.com/oauth
 | /userinfo     | Shows information about a User or yourself.       | `None`      | `discord.Member` |
 | /channelinfo     | Shows information about the Channel you mention or that you are in.       | `None`      | `discord.Channel` |
 | /roleinfo     | Shows information about the Role that you mention.       | `None`      | `discord.Role` |
-| /kick     | Kick a User from the Server.       | `kick_members`      | `discord.Member` `reason.str` |
-| /ban     | Ban a User from the Server.       | `ban_members`      | `discord.Member` `reason.str` |
-| /timeout     | Timeout a User in the Server.       | `kick_members`      | `discord.Member` `duration.int` `reason.str` |
+| /invitesettings     | Open's the invite's control panel.       | `manage_guild`      | `None` |
+| /myinvites     | Shows information about your invite statistics.       | `None`      | `None` |
