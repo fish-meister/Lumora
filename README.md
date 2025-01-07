@@ -2,7 +2,7 @@
 Lumora is a multi-functional Bot for Discord with rich integration and modular features.
 ### Index
 - [Installation](https://github.com/fish-meister/Lumora/blob/main/README.md#installation)
-- [Commands](https://github.com/fish-meister/Lumora/edit/main/README.md#commands)
+- [Commands](https://github.com/fish-meister/Lumora/blob/main/README.md#commands)
 - Terms of Service
 - Privacy Policy
 # Installation
